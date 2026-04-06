@@ -1,5 +1,5 @@
-# Excel_Project-Data_Analytics
-My project demonstrating my excel skills 
+# 📊 Excel Project – Data Analytics
 
-The goal was to strengthen my Excel data analysis and dashboard development skills while extracting meaningful insights from real-world job salary data.
-The final output is an interactive dashboard that allows users to explore salary trends by role, experience level, skills and location.
+This project showcases my Excel skills in data analysis, visualization, and dashboard development.
+
+Using real-world job salary data, I built an interactive dashboard to explore salary trends by role, experience level, skills, and location. This project helped me strengthen my ability to clean data, analyze trends, and present insights effectively.
